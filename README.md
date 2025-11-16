@@ -1,7 +1,7 @@
 # RasMLai
 
 - RasMLai/
-  - [DL/](./RasMLai/DL/)
+  - [DL/](./DL/)
     - [deepmind.md](./RasMLai/DL/deepmind.md)
     - [yaccine_learning.md](./RasMLai/DL/yaccine_learning.md)
   - [LLMs/](./RasMLai/LLMs/)
